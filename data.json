@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "jdoe@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "Steve Smith",
+      "email": "ssmith@gmail.com",
+      "age": 50
+    },
+    {
+      "id": "3",
+      "name": "Sara Williams",
+      "email": "swilliams@gmail.com",
+      "age": 20
+    },
+    {
+      "id": "5",
+      "name": "Tom Jones",
+      "email": "tjones@gmail.com",
+      "age": 32
+    },
+    {
+      "name": "Harry White",
+      "email": "hwhite@gmail.com",
+      "age": 34,
+      "id": "8Grvy27"
+    }
+  ]
+}
